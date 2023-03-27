@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f211d79.css",
+    "main.js": "/static/js/main.bed4151f.js",
+    "static/js/787.b75db449.chunk.js": "/static/js/787.b75db449.chunk.js",
+    "static/media/hundebillede.jpg": "/static/media/hundebillede.24e03440ff8657f13502.jpg",
+    "index.html": "/index.html",
+    "main.6f211d79.css.map": "/static/css/main.6f211d79.css.map",
+    "main.bed4151f.js.map": "/static/js/main.bed4151f.js.map",
+    "787.b75db449.chunk.js.map": "/static/js/787.b75db449.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f211d79.css",
+    "static/js/main.bed4151f.js"
+  ]
+}
